@@ -10,3 +10,4 @@ function x()
 
 }
 
+function teste() {}
