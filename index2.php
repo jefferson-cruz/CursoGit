@@ -1,3 +1,3 @@
 <?php
 
-echo 'Teste 1!';
+echo 'Teste 2!';
