@@ -1,5 +1,3 @@
 <?php
 
-phpinfo();
-
-$p = [];
+echo 'Teste 1!';
